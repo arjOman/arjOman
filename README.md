@@ -6,7 +6,7 @@ Founder & CTO @Mogoj AI
 
 * 🌍  I'm based in Dinajpur, Bangladesh
 * ✉️  You can contact me at [vultarix@pm.me](mailto:vultarix@pm.me)
-* 🚀  I'm currently working on [Snayu, end-to-end ML](http://snayu.mogoj.ai)
+* 🚀  I'm currently working on [Mitra, the agentic AI platform](http://mogoj.framer.website)
 * 🧠  I'm learning Stable Diffusion, Vision Transformers
 * 🤝  I'm open to collaborating on Computer Vision, MLOps, Deep Learning
 
